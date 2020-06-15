@@ -1,0 +1,10 @@
+D:\Github\StackTeck File Transfer\StackTeck File Transfer\StackTeck File Transfer\bin\Debug\StackTeck File Transfer.exe.config
+D:\Github\StackTeck File Transfer\StackTeck File Transfer\StackTeck File Transfer\bin\Debug\StackTeck File Transfer.exe
+D:\Github\StackTeck File Transfer\StackTeck File Transfer\StackTeck File Transfer\bin\Debug\StackTeck File Transfer.pdb
+D:\Github\StackTeck File Transfer\StackTeck File Transfer\StackTeck File Transfer\obj\Debug\StackTeck File Transfer.csprojAssemblyReference.cache
+D:\Github\StackTeck File Transfer\StackTeck File Transfer\StackTeck File Transfer\obj\Debug\StackTeck_File_Transfer.InputForm.resources
+D:\Github\StackTeck File Transfer\StackTeck File Transfer\StackTeck File Transfer\obj\Debug\StackTeck_File_Transfer.Properties.Resources.resources
+D:\Github\StackTeck File Transfer\StackTeck File Transfer\StackTeck File Transfer\obj\Debug\StackTeck File Transfer.csproj.GenerateResource.cache
+D:\Github\StackTeck File Transfer\StackTeck File Transfer\StackTeck File Transfer\obj\Debug\StackTeck File Transfer.csproj.CoreCompileInputs.cache
+D:\Github\StackTeck File Transfer\StackTeck File Transfer\StackTeck File Transfer\obj\Debug\StackTeck File Transfer.exe
+D:\Github\StackTeck File Transfer\StackTeck File Transfer\StackTeck File Transfer\obj\Debug\StackTeck File Transfer.pdb
